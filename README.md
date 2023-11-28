@@ -13,7 +13,7 @@
 <div>
   <img src="https://github.com/Vishnut78a/Flutter-FileManager/assets/91585011/680e9a0b-aa04-4d1e-b422-76faea22ef74"/>
 </div>
-<h3>Viewing Media[Video]:</h3>
+<h3>Viewing Media[Video] UI made with Stack Widget:</h3>
 <div>
   <img src="https://github.com/Vishnut78a/Flutter-FileManager/assets/91585011/f3ce7a02-0b40-41d0-be44-f6cdeeff2ccd"/>
 </div>
